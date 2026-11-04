@@ -1,0 +1,9 @@
+# Ignore submission artifacts folder when pushing repo to GitHub
+submission/
+__pycache__/
+*.pyc
+.coverage
+*.db
+.venv/
+venv/
+.env
